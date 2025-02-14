@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 ChatExcelCSV is a Streamlit-based application that allows users to upload multiple datasets, merge them, and summarize data efficiently. The app integrates OpenAI's GPT models to analyze and interact with the uploaded data.
+Medium article for full guide: - [xxxx](https://xxx/)
 
 ## 🚀 Features
 - Upload multiple CSV or Excel files.
